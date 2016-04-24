@@ -1,0 +1,24 @@
+<html>
+<head><title></title></head>
+<body bgcolor = "gray">
+<h1><center><font color="red"size="6">W E L </font><font color="white" size="5"> C O M E</font></center></h1>
+<br>
+<h1><center>To My Simple Website</center></h1>
+<br>
+<p><font face="Lucida Console" size="4">Ini adalah web pertama yang saya buat, disini saya akan 
+sedikit menjelaskan tentang apa itu header pada pembuatan web HTML.</font></p>
+
+yang pertama saya akan menjelaskan tentang atribut "<h>", itu di gunakan untuk header pada sebuah
+halaman web.
+<br>
+<p>cara penulisan untuk header adalah dimulai dengan menulisan "<h>" dan diakhiri dendan "</h>"</p>
+<p>untuk ukuran header bisa dilakukan dengan penambahan angka setelah h.</p>
+<p>ex. <"h1"> <"h2"> ...dst. semakin kecil angka maka semakin besar ukuran font nya.
+<h1><font face= "Comic Sans MS">ini adalah ukuran header1</h1></p>
+<h2><font face= "Comic Sans MS">ini adalah ukuran header2</h2></p>
+<h3><font face= "Comic Sans MS">ini adalah ukuran header3</h3></p>
+<h4><font face= "Comic Sans MS">ini adalah ukuran header4</h4></p>
+<h5><font face= "Comic Sans MS">ini adalah ukuran header5</h5></p>
+<h6><font face= "Comic Sans MS">ini adalah ukuran header6</h6></p>
+</body>
+</html>
